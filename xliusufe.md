@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning, Tensor Estimation, High Dimensional Data Analysis, and Genome-Wide Association Study.
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on Deep Learning
-- 📫 Email: liu.xu@sufe.edu.cn
+- 📫 Email: liu.xu@sufe.edu.cn. More information can be found at https://xliusufe.github.io/
 
 <!---
 xliusufe/xliusufe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
